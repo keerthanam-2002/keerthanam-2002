@@ -23,61 +23,27 @@ I specialize in transforming raw data into **meaningful business insights** thro
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
-### 📊 Data Analytics & Business Intelligence
+📊 Data Analytics & BI :
+Data Analysis • KPI Analysis • Trend Analysis • Business Insights
+• Data Cleaning • Data Validation • Transformation • Data Quality
 
-* Data Analysis
-* Business Intelligence
-* Data Cleaning
-* Data Validation
-* Data Transformation
-* Data Interpretation
-* Trend Analysis
-* KPI Tracking
-* Performance Reporting
-* Business Insights
+📈 Power BI :
+Dashboard Development • Data Visualization • DAX
+Power Query • KPI Dashboards • Data Storytelling
 
-### 📗 Microsoft Excel
+📗 Excel & Reporting :
+Advanced Excel • Pivot Tables • Lookup Functions
+• Reporting Automation • Google Sheets • Performance Reporting
 
-* Advanced Excel
-* Excel Reporting
-* Advanced Formulas
-* Pivot Tables
-* Lookup Functions
-* Conditional Logic
-* Data Validation
-* Reporting Automation
+🗄️ Data & Analytics Tools :
+SQL • Power BI • Excel • Power Query
+• Google Analytics • Google Ad Manager
 
-### 📊 Power BI
-
-* Power BI
-* Dashboard Development
-* Interactive Dashboards
-* KPI Dashboards
-* Data Visualization
-* DAX
-* Power Query
-* Data Transformation
-* Business Reporting
-* Data Storytelling
-
-### 🗄️ Data & Reporting Tools
-
-* SQL
-* Microsoft Excel
-* Google Sheets
-* Google Analytics
-* Power BI
-* Power Query
-* Reporting Automation
-
-### 📢 Advertising & Analytics Platforms
-
-* Google Ad Manager (GAM)
-* Campaign Manager 360 (CM360)
-* DV360
-* Meta Ads Manager
+📢 Digital & Advertising Analytics :
+Campaign Manager 360 (CM360) • DV360
+• Meta Ads Manager • Campaign Performance Analysis
 
 ---
 
