@@ -81,39 +81,6 @@ I specialize in transforming raw data into **meaningful business insights** thro
 
 ---
 
-## 💼 Professional Experience
-
-### 📊 Data Analyst – Process Specialist
-
-**Dollarbird Technology Private Limited**
-*January 2025 – Present*
-
-* Managed and analyzed large digital advertising datasets using **CM360 and Google Ad Manager**.
-* Collected, cleaned, transformed, and validated datasets to maintain **data quality, accuracy, consistency, and integrity**.
-* Developed structured **Excel and Google Sheets reporting solutions** for recurring performance reporting.
-* Used advanced Excel formulas, lookup functions, Pivot Tables, and data validation for reporting analysis.
-* Designed and developed **interactive Power BI dashboards** for KPI tracking, campaign performance analysis, and business reporting.
-* Used **Power Query** to clean, combine, transform, and prepare datasets for analysis.
-* Automated repetitive data preparation and reporting activities through Power Query workflows.
-* Created dynamic data visualizations to identify **trends, performance patterns, and optimization opportunities**.
-* Analyzed KPIs and campaign performance metrics to identify trends and anomalies.
-* Transformed raw data into **actionable business insights and recommendations**.
-* Collaborated with cross-functional stakeholders to understand reporting requirements and deliver analytical outputs.
-* Performed data quality checks and maintained reporting and process documentation.
-
----
-
-### 📱 Digital / Social Media Executive
-
-**Solray Nutras Private Limited**
-*February 2024 – November 2024*
-
-* Coordinated with cross-functional teams to support **digital marketing initiatives and business reporting**.
-* Analyzed customer engagement and behavioral data to identify trends and performance patterns.
-* Developed data-driven strategies to improve digital performance and support business decisions.
-* Maintained campaign performance and customer interaction documentation for accurate reporting.
-
----
 
 ## 🌍 Client Exposure
 
