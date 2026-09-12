@@ -31,8 +31,6 @@ I specialize in transforming raw data into **meaningful business insights** thro
 * Business Intelligence
 * Data Cleaning
 * Data Validation
-* Data Quality
-* Data Integrity
 * Data Transformation
 * Data Interpretation
 * Trend Analysis
@@ -132,32 +130,6 @@ Supported areas including:
 * KPI Reporting
 * Data-Driven Decision Making
 
-
----
-
-## 📈 My Analytics Workflow
-
-```text
-Raw Data
-   ↓
-Data Collection
-   ↓
-Data Cleaning
-   ↓
-Data Validation
-   ↓
-Data Transformation
-   ↓
-Data Analysis
-   ↓
-KPI & Trend Analysis
-   ↓
-Dashboard Development
-   ↓
-Business Insights
-   ↓
-Data-Driven Decision Making
-```
 
 
 ---
