@@ -1,10 +1,10 @@
-# Hi, I'm Keerthana M 👋
+# Hi, I am Keerthana M 👋
 
 ### Data Analyst | Business Intelligence | Power BI | SQL | Excel
 
-Welcome to my GitHub profile! I'm a **Data Analyst with 2+ years of experience** in digital marketing analytics, data analysis, business reporting, KPI tracking, and performance reporting.
+Welcome to my GitHub profile! I'm a **Data Analyst with 2+ years of experience** in digital marketing analytics, data analysis, business reporting, KPI tracking and performance reporting.
 
-I specialize in transforming raw data into **meaningful business insights** through data cleaning, validation, transformation, analysis, visualization, and interactive dashboard development.
+I specialize in transforming raw data into **meaningful business insights** through data cleaning, validation, transformation, analysis, visualization and interactive dashboard development.
 
 ---
 
